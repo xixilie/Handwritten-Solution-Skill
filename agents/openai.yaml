@@ -1,0 +1,4 @@
+interface:
+  display_name: "模仿字迹生成手写解答"
+  short_description: "参考本人笔迹与笔记本照片，生成经过公式校对的自然手写作业解答图片"
+  default_prompt: "使用 $handwritten-homework，根据我提供的笔迹和题目生成手写解答图片。"
